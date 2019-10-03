@@ -42,7 +42,7 @@ Thomas to bring backup chemical water purification
 - Nanoair light
 - gloves
 - tights?
-- sleeping pad
+- sleeping pad (inflatable or not?)
 - water filter
 
 # Emergency contacts
