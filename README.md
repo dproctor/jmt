@@ -5,6 +5,8 @@ Thomas lands Friday, Oct 11.
 Pack Saturday
 Leave super early Sunday/Saturday night, depending on shuttle, direction.
 
+Aim to finish in 4-5 days. Pack food for 6 days.
+
 # Direction
 Northbound should be best for the weather; get out of higher, more exposed
 terrain earlier.
