@@ -1,0 +1,15 @@
+option "title" "JMT Expenses"
+option "operating_currency" "USD"
+
+2019-10-01 open Income:Devon          USD
+2019-10-01 open Income:Thomas         USD
+2019-10-01 open Expenses:Food         USD
+2019-10-01 open Expenses:Gas          USD
+2019-10-01 open Expenses:Rental-Gear  USD
+
+
+2019-10-04 * "Bearikade bear canister rental"
+  Income:Devon                -38.46 USD
+  Expenses:Rental-Gear
+
+plugin "beancount.plugins.split_expenses" "Devon Thomas"
