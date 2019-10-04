@@ -77,3 +77,9 @@ Thomas to bring backup chemical water purification
 2. Carling
 
 TODO(Devon): Make sure contacts have info they need.
+
+# Expenses
+Add expenses to `expenses.beancount`.
+
+[Amount Devon is
+owed](http://localhost:5000/jmt-expenses/query/?query_string=select+sum%28position%29+where+account+~+%22Devon%22)
