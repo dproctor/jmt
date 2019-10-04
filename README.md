@@ -56,17 +56,24 @@ Thomas to bring Garmin inReach mini.
 ## Backup water
 Thomas to bring backup chemical water purification
 
-# Devon personal gear
+# Devon gear list
+- (x) Black diamond poles
+- (x) Rain jacket
+- (x) Nanoair light
+- (x) gloves
+- (x) tights
+- (x) headlamp
+- (x) sleeping pad
+- (x) water filter
+- (x) emergency matches
+- trowel
 - Feathered friends bag
-- Black diamond poles
-- Rain jacket
-- Nanoair light
-- gloves
-- tights?
-- sleeping pad (inflatable or not?)
-- water filter
+- MSR windburner
+- Food
+- knife
 
 # Emergency contacts
-Caitlin
-Carling
+1. Caitlin
+2. Carling
+
 TODO(Devon): Make sure contacts have info they need.
