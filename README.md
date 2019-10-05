@@ -4,13 +4,13 @@ Leaving October 14.
 Friday,   Oct 11:  Thomas lands at SFO.
 
 Saturday, Oct 12:  Pack.
-                   Drive to Whitney Portal trailhead in Thomas's van.
+
+Sunday,   Oct 13:  Drive to Whitney Portal trailhead in Thomas's van.
                    Hitchhike to Lone Pine (if hitchhiking seems unlikely, we can park in Lone Pine instead).
 
-Sunday,   Oct 13:  6:20 AM bus from Lone Pine to Yosemite Valley (arrive at 11:47 AM).
+Monday,   Oct 14:  6:20 AM bus from Lone Pine to Yosemite Valley (arrive at 11:47 AM).
                    Pick up Permit at Yosemite Valley Wilderness Center (9am - 5pm).
-
-Monday,   Oct 14:  Start hike early in the morning.
+                   Start hike midday.
 
 Expect to finish around Oct 19 (4-5 days), pick up Thomas's van at Whitney
 Portal, drive back to SF by Oct 20.
