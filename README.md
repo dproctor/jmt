@@ -22,7 +22,7 @@ TODO(Devon, Thomas): familiarize with bailout options.
 # Weather
 Should be dry, 40s-50s during the day, 20s at night.
 
-[Opensnow forecase](https://opensnow.com/dailysnow/tahoe/post/15406)
+[Opensnow forecast](https://opensnow.com/dailysnow/tahoe/post/15406)
 
 # Transportation
 Drive Thomas's van to Whitney Portal.
