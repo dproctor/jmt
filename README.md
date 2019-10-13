@@ -8,7 +8,7 @@ Saturday, Oct 12:  Pack.
 Sunday,   Oct 13:  Drive to Whitney Portal trailhead in Thomas's van.
                    Hitchhike to Lone Pine (if hitchhiking seems unlikely, we can park in Lone Pine instead).
 
-Monday,   Oct 14:  6:20 AM bus from Lone Pine to Yosemite Valley (arrive at 11:47 AM).
+Monday,   Oct 14:  6:10 AM bus from Lone Pine to Yosemite Valley (arrive at 11:47 AM).
                    Pick up Permit at Yosemite Valley Wilderness Center (9am - 5pm).
                    Start hike midday.
 
@@ -17,7 +17,6 @@ Portal, drive back to SF by Oct 20.
 
 # Route
 Only southbound permits available.
-TODO(Devon, Thomas): familiarize with bailout options.
 
 # Weather
 Should be dry, 40s-50s during the day, 20s at night.
@@ -28,7 +27,7 @@ Should be dry, 40s-50s during the day, 20s at night.
 Drive Thomas's van to Whitney Portal.
 ## Bus to Happy Isles Trailhead.
   [Lone Pine to Bishop](https://www.estransit.com/routes-schedule/395-routes/lone-pine-express/)
-    6:20 AM >  7:25 AM ($7.25)
+    6:10 AM >  7:25 AM ($7.25)
 
   [Bishop to Mammoth Lakes](https://www.estransit.com/routes-schedule/395-routes/mammoth-express/)
     7:30 AM >  8:20 AM ($7.00)
@@ -49,8 +48,6 @@ Thomas to bring Hyperlite fly
 Devon to bring MSR windburner with 1.7L pot, single large fuel canister.
 ## Food
 Devon to prep dehydrated meals, everything will fit in Bearikade. Pack food for 6 days.
-TODO(Devon, 2019-10-07): Rent Bearikade Expedition.
-TODO(Devon): Prep food.
 ### Menu
 - Mate
 - hard candy
@@ -78,12 +75,11 @@ Thomas to bring backup chemical water purification
 
 # Emergency contacts
 1. Caitlin (724.972.6001, caitlin.hewitt@gmail.com)
-2. Carling
-TODO(Thomas): Add contact info for Carling
+2. Carling (949.412.6441, cursem@gmail.com)
 
 ## Playbook
 1. Thomas and Devon have Thomas's inReach mini, and will update location hourly.
-   TODO(Devon): Add link once available.
+   [Live location](https://us0-share.inreach.garmin.com/neodude)
 2. Thomas and Devon will send a message to caitlin.hewitt@gmail.com if any
    problem arises, but otherwise you shouldn't expect to hear from us.
 3. Emergency contacts should check on our location at least once per day. If you
