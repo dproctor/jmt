@@ -47,31 +47,72 @@ Thomas to bring Hyperlite fly
 ## Stove
 Devon to bring MSR windburner with 1.7L pot, single large fuel canister.
 ## Food
-Devon to prep dehydrated meals, everything will fit in Bearikade. Pack food for 6 days.
-### Menu
-- Mate
-- hard candy
+5 days
+3,500 calories per person per day
+35000 calories
+
+### Per day
+
+#### Breakfast - 800cal pppd
+oats: 560 calories / cup
+
+0.75 cups oats pppd - 800cal pppd
++ peanut butter
++ 2 tablespoons dried apricots/goji berries
+
+#### Snacks
+Peanut butter - 8000cal total - 600cal pppd (snack cal only)
+Apricots - 3000cal total - 300cal pppd
+Cheese - 2600cal total - 260cal ppd
+Beef jerky - 300cal pppd
+Bars (thomas) - ?cal pd
+Nuts - 300cal pppd
+Tortillas
+
+#### Dinner
+cous cous: 750 cal / cup
+
+1 cup cous cous pppd - 1000cal pppd
++ x2 dinners beef jerky, carrot tops, chili peppers, onion, black pepper, salt, ginger
++ x3 dinners salmon/tuna/chicken, coriander, preserved lemon, black pepper, cardamom, salt, aleppo pepper, parsley
+
+#### Other
+Mate
+Hard candy
+
+
+# Packing list
+7.5 cups oats
+1.25 cups dried apricots/goji berries
+? peanut butter
+? cheese
+? beef jerky
+
+10 cups cous cous
+6 packets chicken/fi
 ## Communicator
 Thomas to bring Garmin inReach mini.
 ## Backup water
 Thomas to bring backup chemical water purification
 
 # Devon gear list
-- (x) Black diamond poles
-- (x) Rain jacket
-- (x) Nanoair light
-- (x) gloves
-- (x) tights
-- (x) headlamp
-- (x) sleeping pad
-- (x) water filter
-- (x) emergency matches
-- (x) trowel
-- (x) knife
-- Feathered friends bag
+- Black diamond poles
+- Rain jacket
+- Nanoair light
+- gloves
+- tights
+- headlamp
+- sleeping pad
+- water filter
+- emergency matches
+- trowel
+- knife
+- Katabatic bag
 - MSR windburner
 - Food
 - advil
+- tooth brush
+- sunglasses
 
 # Emergency contacts
 1. Caitlin (724.972.6001, caitlin.hewitt@gmail.com)
