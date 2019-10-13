@@ -1,3 +1,16 @@
+# Emergency contacts
+1. Caitlin (724.972.6001, caitlin.hewitt@gmail.com)
+2. Carling (949.412.6441, cursem@gmail.com)
+
+## Playbook
+1. Thomas and Devon have Thomas's inReach mini, and will update location hourly.
+   [Live location](https://us0-share.inreach.garmin.com/neodude)
+2. Thomas and Devon will send a message to caitlin.hewitt@gmail.com if any
+   problem arises, but otherwise you shouldn't expect to hear from us.
+3. Emergency contacts should check on our location at least once per day. If you
+   are concerned about us for any reason, send a message to the inReach.
+4. In case of emergency, call 911.
+
 # Schedule
 Leaving October 14.
 
@@ -113,19 +126,6 @@ Thomas to bring backup chemical water purification
 - advil
 - tooth brush
 - sunglasses
-
-# Emergency contacts
-1. Caitlin (724.972.6001, caitlin.hewitt@gmail.com)
-2. Carling (949.412.6441, cursem@gmail.com)
-
-## Playbook
-1. Thomas and Devon have Thomas's inReach mini, and will update location hourly.
-   [Live location](https://us0-share.inreach.garmin.com/neodude)
-2. Thomas and Devon will send a message to caitlin.hewitt@gmail.com if any
-   problem arises, but otherwise you shouldn't expect to hear from us.
-3. Emergency contacts should check on our location at least once per day. If you
-   are concerned about us for any reason, send a message to the inReach.
-4. In case of emergency, call 911.
 
 # Expenses
 Add expenses to `expenses.beancount`.
