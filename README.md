@@ -60,49 +60,9 @@ Thomas to bring Hyperlite fly
 ## Stove
 Devon to bring MSR windburner with 1.7L pot, single large fuel canister.
 ## Food
-5 days
-3,500 calories per person per day
-35000 calories
-
-### Per day
-
-#### Breakfast - 800cal pppd
-oats: 560 calories / cup
-
-0.75 cups oats pppd - 800cal pppd
-+ peanut butter
-+ 2 tablespoons dried apricots/goji berries
-
-#### Snacks
-- Peanut butter - 8000cal total - 600cal pppd (snack cal only)
-- Apricots - 3000cal total - 300cal pppd
-- Cheese - 2600cal total - 260cal ppd
-- Beef jerky - 300cal pppd
-- Bars (thomas) - ?cal pd
-- Nuts - 300cal pppd
-- Tortillas
-
-#### Dinner
-cous cous: 750 cal / cup
-
-1 cup cous cous pppd - 1000cal pppd
-+ x2 dinners beef jerky, carrot tops, chili peppers, onion, black pepper, salt, ginger
-+ x3 dinners salmon/tuna/chicken, coriander, preserved lemon, black pepper, cardamom, salt, aleppo pepper, parsley
-
-#### Other
-- Mate
-- Hard candy
-
+See [menu](food.md)
 
 # Packing list
-- 7.5 cups oats
-- 1.25 cups dried apricots/goji berries
-- ? peanut butter
-- ? cheese
-- ? beef jerky
-
-10 cups cous cous
-6 packets chicken/fi
 ## Communicator
 Thomas to bring Garmin inReach mini.
 ## Backup water
@@ -127,8 +87,10 @@ Thomas to bring backup chemical water purification
 - tooth brush
 - sunglasses
 
-# Expenses
-Add expenses to `expenses.beancount`.
-
-[Amount Devon is
-owed](http://localhost:5000/jmt-expenses/query/?query_string=select+sum%28position%29+where+account+~+%22Devon%22)
+# Lessons learned
+- Do longer/steeper day, somewhere in bay area.
+- Pretape feet with leukotape.
+- New, wider shoes.
+- Shoe gaiters.
+- Accessory pocket for snacks.
+- Swap 1.8L windburner for https://www.rei.com/product/153362/msr-pocketrocket-deluxe-stove-kit
